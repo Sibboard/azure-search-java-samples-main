@@ -1,6 +1,6 @@
 {
-    "ServiceName" :  "[SEARCH_SERVICE_NAME]",
-    "ApiKey" : "[SEARCH_SERVICE_API_KEY]",
+    "ServiceName" :  "az-cognitive-search-demo-free-2",
+    "ApiKey" : "D877BEEFBA79B8E768E411DD890A6A5C",
     "IndexName" : "hotels",
     "IndexerName" : "hotels-indexer",
     "ApiVersion" : "2019-05-06",

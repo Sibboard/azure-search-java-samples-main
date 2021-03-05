@@ -32,4 +32,3 @@ hs_err_pid*
 # Shiding config files
 search-java-getting-started/target/classes/azure_search_config
 search-java-getting-started/src/main/resources/azure_search_config
-search-java-getting-started/src/main/resources/azure_search_config
